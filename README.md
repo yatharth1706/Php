@@ -7,7 +7,7 @@
 - [x] Arrays and Associative Arrays
 - [x] Get and Post Methods
 - [x] Include and Require functions
-- [ ] Sessions
+- [x] Sessions
 - [ ] Cookies
 - [ ] Connecting MySql
 - [ ] CRUD operations
