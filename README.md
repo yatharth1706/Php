@@ -1,7 +1,7 @@
 ## Php Practice
 
 ### Tasks to Do:
-- [ ] Basics like (Variables, echo, if else, loops etc)
+- [x] Basics like (Variables, echo, if else, loops etc)
 - [ ] Arrays and Associative Arrays
 - [ ] Get and Post Methods
 - [ ] Include and Require functions
