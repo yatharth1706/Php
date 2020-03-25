@@ -1,8 +1,10 @@
 ## Php Practice
 
+[Php Documentation](https://www.php.net/manual/en/index.php "Documentation of Php")
+
 ### Tasks to Do:
 - [x] Basics like (Variables, echo, if else, loops etc)
-- [ ] Arrays and Associative Arrays
+- [x] Arrays and Associative Arrays
 - [ ] Get and Post Methods
 - [ ] Include and Require functions
 - [ ] Sessions
