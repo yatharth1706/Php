@@ -9,7 +9,7 @@
 - [ ] Cookies
 - [ ] Connecting MySql
 - [ ] CRUD operations
+- [ ] Php Rest API
 - [ ] User registration with PHP and MySql
 - [ ] File downloads
 - [ ] File uploads
-
