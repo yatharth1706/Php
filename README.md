@@ -5,7 +5,7 @@
 ### Tasks to Do:
 - [x] Basics like (Variables, echo, if else, loops etc)
 - [x] Arrays and Associative Arrays
-- [ ] Get and Post Methods
+- [x] Get and Post Methods
 - [ ] Include and Require functions
 - [ ] Sessions
 - [ ] Cookies
