@@ -6,7 +6,7 @@
 - [x] Basics like (Variables, echo, if else, loops etc)
 - [x] Arrays and Associative Arrays
 - [x] Get and Post Methods
-- [ ] Include and Require functions
+- [x] Include and Require functions
 - [ ] Sessions
 - [ ] Cookies
 - [ ] Connecting MySql
