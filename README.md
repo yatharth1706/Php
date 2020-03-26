@@ -8,7 +8,7 @@
 - [x] Get and Post Methods
 - [x] Include and Require functions
 - [x] Sessions
-- [ ] Cookies
+- [x] Cookies
 - [ ] Connecting MySql
 - [ ] CRUD operations
 - [ ] Php Rest API
