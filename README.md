@@ -10,13 +10,12 @@
 - [x] Sessions
 - [x] Cookies
 - [x] Connecting MySql
-- [ ] CRUD operations
-- [ ] Php Rest API
+- [x] CRUD operations
 - [ ] User registration with PHP and MySql
 - [ ] File downloads
 - [ ] File uploads
 - [ ] Sending mails
-- [ ] Insert, Update, Delete and Retrieving data through forms
+- [x] Insert, Update, Delete and Retrieving data through forms
 
 
 ### Steps to set up MySql
