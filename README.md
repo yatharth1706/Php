@@ -28,10 +28,13 @@
 > 5. First make user account and give all priviliges to that account from phpmyadmin
 > 6. In php file write
 > 
->		$conn = mysqli_connect('localhost','<username>','password','<database_name>'); 
+>		$conn = mysqli_connect('localhost','<user_name>','password','<database_name>'); 
 >
 > 7. Check connection
+>
+>
 >		if(!$conn){
-			echo "Connection Error: " . mysqli_connect_error();
-		}
+>			echo "Connection Error: " . mysqli_connect_error();
+>		}
+>
 > 8. Now you can run mysqli queries to insert, delete, update , basically you can perform all crud operations
