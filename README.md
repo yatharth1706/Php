@@ -15,3 +15,5 @@
 - [ ] User registration with PHP and MySql
 - [ ] File downloads
 - [ ] File uploads
+- [ ] Sending mails
+- [ ] Insert, Update, Delete and Retrieving data through forms
