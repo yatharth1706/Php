@@ -25,7 +25,6 @@
 
 	// close connection
 	mysqli_close($conn);
-	print_r($pizzas);
 ?>
 
 <!DOCTYPE html>
@@ -34,6 +33,17 @@
 	<title>DataBase</title>
 </head>
 <body>
+	<div>
+		<?php foreach($pizzas as $pizza){?>
 
+		<h2> <?php echo htmlspecialchars($pizza['title'])?></h2>
+		<ul> <?php foreach(explode(',',$pizza['ingredients']) as $ing){?>
+				<li><?php echo $ing?></li>
+			<?php }?>
+		</ul>
+
+		<?php }?>
+		<h4></h4>
+	</div>
 </body>
 </html>
