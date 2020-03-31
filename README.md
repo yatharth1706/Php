@@ -11,7 +11,7 @@
 - [x] Cookies
 - [x] Connecting MySql
 - [x] CRUD operations
-- [ ] File system (Read,write,open)
+- [x] File system (Read,write,open)
 - [ ] Classes and Objects
 - [ ] File downloads
 - [ ] File uploads
